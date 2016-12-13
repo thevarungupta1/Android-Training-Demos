@@ -1,0 +1,26 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<View
+    android:layout_width="250dp"
+    android:layout_height="250dp"
+    android:background="#003300"/>
+
+    <View
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:background="#cc3300"/>
+
+    <View
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:background="#0000ff"/>
+
+    <View
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="#ffff66"/>
+    
+    
+</FrameLayout>
