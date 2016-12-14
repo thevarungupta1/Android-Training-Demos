@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "756590831293",
+    "firebase_url": "https://fbdemo-cda2b.firebaseio.com",
+    "project_id": "fbdemo-cda2b",
+    "storage_bucket": "fbdemo-cda2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756590831293:android:c2dd471abc2edd5e",
+        "android_client_info": {
+          "package_name": "com.demo.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756590831293-i821fks0p5b4usdol44hloc1p94k1jhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSQRYgn2kSHvu_UQqciinbrGmCvBRKzUs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
